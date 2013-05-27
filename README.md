@@ -1,0 +1,2 @@
+facebookJSAPI-CoffeeScript-class
+================================
